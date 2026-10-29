@@ -1,0 +1,6 @@
+{
+  "name": "BlenderMaster 3D - Aprende Blender Interactivo",
+  "description": "Plataforma interactiva para aprender Blender con visor 3D WebGL, tutoriales paso a paso de la Dona y modelado low-poly, entrenador de atajos, laboratorio de nodos y asistente IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
